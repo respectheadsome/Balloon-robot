@@ -1,8 +1,3 @@
-以下是将您提供的内容转换为 **README** 形式的文本，包括中文版和英文版：
-
----
-
-# README
 
 ## 项目概述
 本项目为机器人控制程序，主控可使用 M6 或 E3。所有代码均基于 RoboEXP 软件开发，并打包在 ZIP 文件中。
@@ -13,7 +8,7 @@
 - **循迹模块**：使用 8 路红外传感器
 
 ## 示例
-
+example.png
 ## 使用说明
 1. 确保已安装 RoboEXP 软件。
 2. 将 ZIP 文件解压至指定目录。
@@ -24,9 +19,6 @@
 - 在运行程序前，请确保所有硬件连接正确。
 - 若使用其他主控模块，请根据实际情况调整代码。
 
----
-
-# README (English Version)
 
 ## Project Overview
 This project is a robot control program that can use either M6 or E3 as the main controller. All code is developed using RoboEXP software and is packaged in a ZIP file.
