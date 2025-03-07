@@ -8,7 +8,7 @@
 - **循迹模块**：使用 8 路红外传感器
 
 ## 示例
-example.png
+[example.png](https://github.com/respectheadsome/Balloon-robot/blob/main/example.png)
 ## 使用说明
 1. 确保已安装 RoboEXP 软件。
 2. 将 ZIP 文件解压至指定目录。
@@ -27,8 +27,6 @@ This project is a robot control program that can use either M6 or E3 as the main
 - **Main Program**: `challenge2024-A+.ruc`  
 - **Subprograms**: All other files are subprograms  
 - **Line-following Module**: Uses an 8-channel infrared sensor
-
-## Example 
 
 ## Usage Instructions
 1. Ensure that RoboEXP software is installed.
