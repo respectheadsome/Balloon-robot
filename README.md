@@ -8,7 +8,7 @@
 - **循迹模块**：使用 8 路红外传感器
 
 ## 示例
-[example.png](https://github.com/respectheadsome/Balloon-robot/blob/main/example.png)
+https://picture.gptkong.com/20250308/22347212ecf35849eab472ce43d0f0bfa8.png
 ## 使用说明
 1. 确保已安装 RoboEXP 软件。
 2. 将 ZIP 文件解压至指定目录。
